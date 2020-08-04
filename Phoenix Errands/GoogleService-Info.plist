@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>321505110953-rrdi1bhiec35e9usncs01si24sdoh67j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.321505110953-rrdi1bhiec35e9usncs01si24sdoh67j</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>321505110953-fqbp2ucd6k84dgtvdbqk27jhcvlh5cp2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC109_nfDD843peRjB87HHqI_CodrAiYB8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>321505110953</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.PhoenixErrands</string>
+	<key>PROJECT_ID</key>
+	<string>phoenixerrands-1567587984125</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phoenixerrands-1567587984125.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:321505110953:ios:4c3e5e75799100c3b2b2b8</string>
+	<key>DATABASE_URL</key>
+	<string>https://phoenixerrands-1567587984125.firebaseio.com</string>
+</dict>
+</plist>
